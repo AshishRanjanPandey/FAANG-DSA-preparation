@@ -1,17 +1,27 @@
 # FAANG-DSA-preparation
-A comprehensive collection of Data Structures and Algorithms solutions for coding interviews and competitive programming. This repository contains well-structured implementations, explanations, and complexity analysis of problems from platforms like LeetCode, GeeksforGeeks, Codeforces, and HackerRank. 
+🚀 A structured repository dedicated to mastering Data Structures and Algorithms for coding interviews and competitive programming.
 
-This repository contains solutions to important Data Structures and Algorithms problems from platforms such as LeetCode, GeeksforGeeks, and Codeforces.
+This repository contains solutions to DSA problems from:
+
+- LeetCode
+- GeeksforGeeks
+- Codeforces
+- HackerRank
 
 Topics Covered:
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
+✔ Arrays
+✔ Strings
+✔ Linked Lists
+✔ Stack & Queue
+✔ Trees
+✔ Graphs
+✔ Dynamic Programming
+✔ Greedy Algorithms
+
+Language Used:
+Java
+
+Each solution includes problem description, approach explanation, and time & space complexity analysis to strengthen algorithmic thinking and interview preparation for top tech companies.
 
 ## 📊 DSA Progress Tracker
 
@@ -28,5 +38,6 @@ Topics Covered:
 
 | **Total Problems Solved** | **25** | **18** | **8** | **51** |
 
-Progress: 51 / 200
 🎯 Goal: Solve 200+ DSA Problems
+Progress: 51 / 200
+
