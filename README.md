@@ -1,5 +1,14 @@
 # FAANG-DSA-preparation
 🚀 A structured repository dedicated to mastering Data Structures and Algorithms for coding interviews and competitive programming.
+## 🏆 Badges
+
+![GitHub stars](https://img.shields.io/github/stars/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
+![GitHub forks](https://img.shields.io/github/forks/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
+![GitHub last commit](https://img.shields.io/github/last-commit/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
+![GitHub repo size](https://img.shields.io/github/repo-size/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
+![DSA Problems](https://img.shields.io/badge/Problems%20Solved-50-blue)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 This repository contains solutions to DSA problems from:
 
